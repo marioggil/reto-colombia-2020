@@ -17,3 +17,9 @@ __pycache__/
 #*.pkl
 #*.rds
 
+data/Input3_clientes_test.csv
+data/Input2_clientes_venta.csv
+data/Input1_clientes_estructura.csv
+.gitignore
+.vscode/settings.json
+README.md
